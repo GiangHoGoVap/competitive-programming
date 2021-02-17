@@ -1,4 +1,20 @@
 {
+  "AC20231669": {
+    "contest_id": "abc191",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc191/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Remove It",
+    "problem_url": "https://atcoder.jp/contests/abc191/tasks/abc191_b",
+    "submission_id": "AC20231669",
+    "submission_url": "https://atcoder.jp/contests/abc191/submissions/20231669",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/17/2021 20:06"
+  },
   "AC20240052": {
     "contest_id": "abc190",
     "language": "C++ (GCC 9.2.1)",
