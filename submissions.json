@@ -1,4 +1,20 @@
 {
+  "AC20231512": {
+    "contest_id": "abc191",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc191/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Vanishing Pitch",
+    "problem_url": "https://atcoder.jp/contests/abc191/tasks/abc191_a",
+    "submission_id": "AC20231512",
+    "submission_url": "https://atcoder.jp/contests/abc191/submissions/20231512",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/17/2021 19:59"
+  },
   "AC20231669": {
     "contest_id": "abc191",
     "language": "C++ (GCC 9.2.1)",
