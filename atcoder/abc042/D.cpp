@@ -26,6 +26,7 @@ long long path(long long a, long long b) {
 	return ans;
 }
 int main () {
+ 
 	int h, w, a, b;
 	cin >> h >> w >> a >> b;
 	fac[0] = 1ll;
