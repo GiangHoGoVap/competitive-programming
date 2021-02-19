@@ -512,5 +512,21 @@
       "*800"
     ],
     "timestamp": "Feb/19/2021 19:34"
+  },
+  "CF107948776": {
+    "contest_id": 16,
+    "language": "GNU C++11",
+    "path": "codeforces/16/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Flag",
+    "problem_url": "https://codeforces.com/contest/16/problem/A",
+    "submission_id": "CF107948776",
+    "submission_url": "https://codeforces.com/contest/16/submission/107948776",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/19/2021 20:59"
   }
 }
