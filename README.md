@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-30 | [A - Die Roll](https://codeforces.com/contest/9/problem/A) | [GNU C++11](./codeforces/9/A.cpp) | `math` `probabilities` `*800` | Feb/19/2021 19:34 | 
+31 | [A - Die Roll](https://codeforces.com/contest/9/problem/A) | [GNU C++11](./codeforces/9/A.cpp) | `math` `probabilities` `*800` | Feb/19/2021 19:34 | 
+30 | [A - Watermelon](https://codeforces.com/contest/4/problem/A) | [GNU C++11](./codeforces/4/A.cpp) | `brute force` `math` `*800` | Feb/19/2021 19:16 | 
 29 | [B - -- - B](https://atcoder.jp/contests/arc112/tasks/arc112_b) | [C++ (GCC 9.2.1)](./atcoder/arc112/B.cpp) | `AtCoder` `*400` | Feb/19/2021 17:09 | 
 28 | [D - Takahashi Unevolved](https://atcoder.jp/contests/abc180/tasks/abc180_d) | [C++ (GCC 9.2.1)](./atcoder/abc180/D.cpp) | `AtCoder` `*400` | Feb/19/2021 16:53 | 
 27 | [C - Cream puff](https://atcoder.jp/contests/abc180/tasks/abc180_c) | [C++ (GCC 9.2.1)](./atcoder/abc180/C.cpp) | `AtCoder` `*300` | Feb/19/2021 16:45 | 
