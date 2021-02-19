@@ -335,6 +335,22 @@
     ],
     "timestamp": "Feb/19/2021 09:53"
   },
+  "AC20255694": {
+    "contest_id": "abc170",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc170/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Crane and Turtle",
+    "problem_url": "https://atcoder.jp/contests/abc170/tasks/abc170_b",
+    "submission_id": "AC20255694",
+    "submission_url": "https://atcoder.jp/contests/abc170/submissions/20255694",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/19/2021 10:08"
+  },
   "AC20255833": {
     "contest_id": "abc170",
     "language": "C++ (GCC 9.2.1)",
