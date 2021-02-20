@@ -641,6 +641,22 @@
     ],
     "timestamp": "Feb/19/2021 20:59"
   },
+  "CF108017287": {
+    "contest_id": 22,
+    "language": "GNU C++11",
+    "path": "codeforces/22/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Second Order Statistics",
+    "problem_url": "https://codeforces.com/contest/22/problem/A",
+    "submission_id": "CF108017287",
+    "submission_url": "https://codeforces.com/contest/22/submission/108017287",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Feb/20/2021 17:08"
+  },
   "CF108024420": {
     "contest_id": 32,
     "language": "GNU C++11",

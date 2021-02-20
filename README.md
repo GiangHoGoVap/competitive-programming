@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-42 | [B - Substring](https://atcoder.jp/contests/abc177/tasks/abc177_b) | [C++ (GCC 9.2.1)](./atcoder/abc177/B.cpp) | `AtCoder` `*200` | Feb/21/2021 16:28 | 
-41 | [A - Don't be late](https://atcoder.jp/contests/abc177/tasks/abc177_a) | [C++ (GCC 9.2.1)](./atcoder/abc177/A.cpp) | `AtCoder` `*100` | Feb/21/2021 16:06 | 
-40 | [A - Lucky Ticket](https://codeforces.com/contest/146/problem/A) | [GNU C++11](./codeforces/146/A.cpp) | `implementation` `*800` | Feb/20/2021 21:14 | 
-39 | [C - Kaprekar Number](https://atcoder.jp/contests/abc192/tasks/abc192_c) | [C++ (GCC 9.2.1)](./atcoder/abc192/C.cpp) | `AtCoder` `*300` | Feb/20/2021 20:48 | 
-38 | [A - Star](https://atcoder.jp/contests/abc192/tasks/abc192_a) | [C++ (GCC 9.2.1)](./atcoder/abc192/A.cpp) | `AtCoder` `*100` | Feb/20/2021 19:42 | 
-37 | [B - uNrEaDaBlE sTrInG](https://atcoder.jp/contests/abc192/tasks/abc192_b) | [C++ (GCC 9.2.1)](./atcoder/abc192/B.cpp) | `AtCoder` `*200` | Feb/20/2021 19:24 | 
-36 | [B - Borze](https://codeforces.com/contest/32/problem/B) | [GNU C++11](./codeforces/32/B.cpp) | `expression parsing` `implementation` `*800` | Feb/20/2021 18:53 | 
-35 | [A - Reconnaissance](https://codeforces.com/contest/32/problem/A) | [GNU C++11](./codeforces/32/A.cpp) | `brute force` `*800` | Feb/20/2021 18:45 | 
+43 | [B - Substring](https://atcoder.jp/contests/abc177/tasks/abc177_b) | [C++ (GCC 9.2.1)](./atcoder/abc177/B.cpp) | `AtCoder` `*200` | Feb/21/2021 16:28 | 
+42 | [A - Don't be late](https://atcoder.jp/contests/abc177/tasks/abc177_a) | [C++ (GCC 9.2.1)](./atcoder/abc177/A.cpp) | `AtCoder` `*100` | Feb/21/2021 16:06 | 
+41 | [A - Lucky Ticket](https://codeforces.com/contest/146/problem/A) | [GNU C++11](./codeforces/146/A.cpp) | `implementation` `*800` | Feb/20/2021 21:14 | 
+40 | [C - Kaprekar Number](https://atcoder.jp/contests/abc192/tasks/abc192_c) | [C++ (GCC 9.2.1)](./atcoder/abc192/C.cpp) | `AtCoder` `*300` | Feb/20/2021 20:48 | 
+39 | [A - Star](https://atcoder.jp/contests/abc192/tasks/abc192_a) | [C++ (GCC 9.2.1)](./atcoder/abc192/A.cpp) | `AtCoder` `*100` | Feb/20/2021 19:42 | 
+38 | [B - uNrEaDaBlE sTrInG](https://atcoder.jp/contests/abc192/tasks/abc192_b) | [C++ (GCC 9.2.1)](./atcoder/abc192/B.cpp) | `AtCoder` `*200` | Feb/20/2021 19:24 | 
+37 | [B - Borze](https://codeforces.com/contest/32/problem/B) | [GNU C++11](./codeforces/32/B.cpp) | `expression parsing` `implementation` `*800` | Feb/20/2021 18:53 | 
+36 | [A - Reconnaissance](https://codeforces.com/contest/32/problem/A) | [GNU C++11](./codeforces/32/A.cpp) | `brute force` `*800` | Feb/20/2021 18:45 | 
+35 | [A - Second Order Statistics](https://codeforces.com/contest/22/problem/A) | [GNU C++11](./codeforces/22/A.cpp) | `brute force` `*800` | Feb/20/2021 17:08 | 
 34 | [A - Flag](https://codeforces.com/contest/16/problem/A) | [GNU C++11](./codeforces/16/A.cpp) | `implementation` `*800` | Feb/19/2021 20:59 | 
 33 | [A - Letter](https://codeforces.com/contest/14/problem/A) | [GNU C++11](./codeforces/14/A.cpp) | `implementation` `*800` | Feb/19/2021 20:11 | 
 32 | [A - Super Agent](https://codeforces.com/contest/12/problem/A) | [GNU C++11](./codeforces/12/A.cpp) | `implementation` `*800` | Feb/19/2021 19:50 | 
