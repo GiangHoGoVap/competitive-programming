@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-44 | [A - Three swimmers](https://codeforces.com/contest/1492/problem/A) | [GNU C++11](./codeforces/1492/A.cpp) | `math` | Feb/23/2021 19:58 | 
+45 | [A - Three swimmers](https://codeforces.com/contest/1492/problem/A) | [GNU C++11](./codeforces/1492/A.cpp) | `math` | Feb/23/2021 19:58 | 
+44 | [A - Chips](https://codeforces.com/contest/92/problem/A) | [GNU C++11](./codeforces/92/A.cpp) | `implementation` `math` `*800` | Feb/21/2021 22:36 | 
 43 | [B - Substring](https://atcoder.jp/contests/abc177/tasks/abc177_b) | [C++ (GCC 9.2.1)](./atcoder/abc177/B.cpp) | `AtCoder` `*200` | Feb/21/2021 16:28 | 
 42 | [A - Don't be late](https://atcoder.jp/contests/abc177/tasks/abc177_a) | [C++ (GCC 9.2.1)](./atcoder/abc177/A.cpp) | `AtCoder` `*100` | Feb/21/2021 16:06 | 
 41 | [A - Lucky Ticket](https://codeforces.com/contest/146/problem/A) | [GNU C++11](./codeforces/146/A.cpp) | `implementation` `*800` | Feb/20/2021 21:14 | 
