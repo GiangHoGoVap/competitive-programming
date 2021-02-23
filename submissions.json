@@ -705,5 +705,20 @@
       "*800"
     ],
     "timestamp": "Feb/20/2021 21:14"
+  },
+  "CF108298816": {
+    "contest_id": 1492,
+    "language": "GNU C++11",
+    "path": "codeforces/1492/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Three swimmers",
+    "problem_url": "https://codeforces.com/contest/1492/problem/A",
+    "submission_id": "CF108298816",
+    "submission_url": "https://codeforces.com/contest/1492/submission/108298816",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Feb/23/2021 19:58"
   }
 }
