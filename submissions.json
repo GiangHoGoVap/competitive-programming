@@ -559,6 +559,22 @@
     ],
     "timestamp": "Feb/21/2021 16:28"
   },
+  "AC20450019": {
+    "contest_id": "keyence2021",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/keyence2021/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Two Sequences 2",
+    "problem_url": "https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a",
+    "submission_id": "AC20450019",
+    "submission_url": "https://atcoder.jp/contests/keyence2021/submissions/20450019",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/23/2021 22:07"
+  },
   "AC20450232": {
     "contest_id": "keyence2021",
     "language": "C++ (GCC 9.2.1)",
