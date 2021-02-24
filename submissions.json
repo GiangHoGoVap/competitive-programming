@@ -559,6 +559,22 @@
     ],
     "timestamp": "Feb/21/2021 16:28"
   },
+  "AC20460588": {
+    "contest_id": "keyence2021",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/keyence2021/D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Choosing Up Sides",
+    "problem_url": "https://atcoder.jp/contests/keyence2021/tasks/keyence2021_d",
+    "submission_id": "AC20460588",
+    "submission_url": "https://atcoder.jp/contests/keyence2021/submissions/20460588",
+    "tags": [
+      "AtCoder",
+      "*700"
+    ],
+    "timestamp": "Feb/24/2021 15:13"
+  },
   "AC20460639": {
     "contest_id": "abc188",
     "language": "C++ (GCC 9.2.1)",
