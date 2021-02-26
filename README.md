@@ -13,29 +13,30 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-77 | [C - Marks](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_c) | [C++ (GCC 9.2.1)](./atcoder/m-solutions2020/C.cpp) | `AtCoder` `*300` | Mar/01/2021 10:38 | 
-76 | [B - Magic 2](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_b) | [C++ (GCC 9.2.1)](./atcoder/m-solutions2020/B.cpp) | `AtCoder` `*200` | Mar/01/2021 09:15 | 
-75 | [A - Kyu in AtCoder](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_a) | [C++ (GCC 9.2.1)](./atcoder/m-solutions2020/A.cpp) | `AtCoder` `*100` | Mar/01/2021 08:47 | 
-74 | [A - A*B*C](https://atcoder.jp/contests/arc113/tasks/arc113_a) | [C++ (GCC 9.2.1)](./atcoder/arc113/A.cpp) | `AtCoder` `*300` | Feb/28/2021 18:18 | 
-73 | [C - Unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c) | [C++ (GCC 9.2.1)](./atcoder/abc193/C.cpp) | `AtCoder` `*300` | Feb/28/2021 18:04 | 
-72 | [B - Play Snuke](https://atcoder.jp/contests/abc193/tasks/abc193_b) | [C++ (GCC 9.2.1)](./atcoder/abc193/B.cpp) | `AtCoder` `*200` | Feb/27/2021 19:20 | 
-71 | [A - Discount](https://atcoder.jp/contests/abc193/tasks/abc193_a) | [C++ (GCC 9.2.1)](./atcoder/abc193/A.cpp) | `AtCoder` `*100` | Feb/27/2021 19:10 | 
-70 | [C - Repsept](https://atcoder.jp/contests/abc174/tasks/abc174_c) | [C++ (GCC 9.2.1)](./atcoder/abc174/C.cpp) | `AtCoder` `*300` | Feb/27/2021 09:27 | 
-69 | [B - Distance](https://atcoder.jp/contests/abc174/tasks/abc174_b) | [C++ (GCC 9.2.1)](./atcoder/abc174/B.cpp) | `AtCoder` `*200` | Feb/27/2021 09:21 | 
-68 | [A - Air Conditioner](https://atcoder.jp/contests/abc174/tasks/abc174_a) | [C++ (GCC 9.2.1)](./atcoder/abc174/A.cpp) | `AtCoder` `*100` | Feb/27/2021 09:09 | 
-67 | [A - Ball Distribution](https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_a) | [C++ (GCC 9.2.1)](./atcoder/diverta2019-2/A.cpp) | `AtCoder` `*100` | Feb/26/2021 20:49 | 
-66 | [C - City Savers](https://atcoder.jp/contests/abc135/tasks/abc135_c) | [C++ (GCC 9.2.1)](./atcoder/abc135/C.cpp) | `AtCoder` `*300` | Feb/26/2021 20:45 | 
-65 | [B - 0 or 1 Swap](https://atcoder.jp/contests/abc135/tasks/abc135_b) | [C++ (GCC 9.2.1)](./atcoder/abc135/B.cpp) | `AtCoder` `*200` | Feb/26/2021 20:33 | 
-64 | [A - Harmony](https://atcoder.jp/contests/abc135/tasks/abc135_a) | [C++ (GCC 9.2.1)](./atcoder/abc135/A.cpp) | `AtCoder` `*100` | Feb/26/2021 20:16 | 
-63 | [C - One Quadrillion and One Dalmatians](https://atcoder.jp/contests/abc171/tasks/abc171_c) | [C++ (GCC 9.2.1)](./atcoder/abc171/C.cpp) | `AtCoder` `*300` | Feb/26/2021 20:10 | 
-62 | [B - Mix Juice](https://atcoder.jp/contests/abc171/tasks/abc171_b) | [C++ (GCC 9.2.1)](./atcoder/abc171/B.cpp) | `AtCoder` `*200` | Feb/26/2021 20:01 | 
-61 | [A - αlphabet](https://atcoder.jp/contests/abc171/tasks/abc171_a) | [C++ (GCC 9.2.1)](./atcoder/abc171/A.cpp) | `AtCoder` `*100` | Feb/26/2021 19:57 | 
-60 | [B - Judge Status Summary](https://atcoder.jp/contests/abc173/tasks/abc173_b) | [C++ (GCC 9.2.1)](./atcoder/abc173/B.cpp) | `AtCoder` `*200` | Feb/26/2021 19:49 | 
-59 | [A - Payment](https://atcoder.jp/contests/abc173/tasks/abc173_a) | [C++ (GCC 9.2.1)](./atcoder/abc173/A.cpp) | `AtCoder` `*100` | Feb/26/2021 19:35 | 
-58 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Feb/26/2021 17:15 | 
-57 | [B - Painting Balls with AtCoDeer](https://atcoder.jp/contests/abc046/tasks/abc046_b) | [C++ (GCC 9.2.1)](./atcoder/abc046/B.cpp) | `AtCoder` `*200` | Feb/26/2021 17:01 | 
-56 | [A - AtCoDeer and Paint Cans](https://atcoder.jp/contests/abc046/tasks/abc046_a) | [C++ (GCC 9.2.1)](./atcoder/abc046/A.cpp) | `AtCoder` `*100` | Feb/26/2021 16:55 | 
-55 | [A - 12/22](https://atcoder.jp/contests/caddi2018b/tasks/caddi2018b_a) | [C++ (GCC 9.2.1)](./atcoder/caddi2018b/A.cpp) | `AtCoder` `*100` | Feb/26/2021 16:48 | 
+78 | [C - Marks](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_c) | [C++ (GCC 9.2.1)](./atcoder/m-solutions2020/C.cpp) | `AtCoder` `*300` | Mar/01/2021 10:38 | 
+77 | [B - Magic 2](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_b) | [C++ (GCC 9.2.1)](./atcoder/m-solutions2020/B.cpp) | `AtCoder` `*200` | Mar/01/2021 09:15 | 
+76 | [A - Kyu in AtCoder](https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_a) | [C++ (GCC 9.2.1)](./atcoder/m-solutions2020/A.cpp) | `AtCoder` `*100` | Mar/01/2021 08:47 | 
+75 | [A - A*B*C](https://atcoder.jp/contests/arc113/tasks/arc113_a) | [C++ (GCC 9.2.1)](./atcoder/arc113/A.cpp) | `AtCoder` `*300` | Feb/28/2021 18:18 | 
+74 | [C - Unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c) | [C++ (GCC 9.2.1)](./atcoder/abc193/C.cpp) | `AtCoder` `*300` | Feb/28/2021 18:04 | 
+73 | [B - Play Snuke](https://atcoder.jp/contests/abc193/tasks/abc193_b) | [C++ (GCC 9.2.1)](./atcoder/abc193/B.cpp) | `AtCoder` `*200` | Feb/27/2021 19:20 | 
+72 | [A - Discount](https://atcoder.jp/contests/abc193/tasks/abc193_a) | [C++ (GCC 9.2.1)](./atcoder/abc193/A.cpp) | `AtCoder` `*100` | Feb/27/2021 19:10 | 
+71 | [C - Repsept](https://atcoder.jp/contests/abc174/tasks/abc174_c) | [C++ (GCC 9.2.1)](./atcoder/abc174/C.cpp) | `AtCoder` `*300` | Feb/27/2021 09:27 | 
+70 | [B - Distance](https://atcoder.jp/contests/abc174/tasks/abc174_b) | [C++ (GCC 9.2.1)](./atcoder/abc174/B.cpp) | `AtCoder` `*200` | Feb/27/2021 09:21 | 
+69 | [A - Air Conditioner](https://atcoder.jp/contests/abc174/tasks/abc174_a) | [C++ (GCC 9.2.1)](./atcoder/abc174/A.cpp) | `AtCoder` `*100` | Feb/27/2021 09:09 | 
+68 | [A - Ball Distribution](https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_a) | [C++ (GCC 9.2.1)](./atcoder/diverta2019-2/A.cpp) | `AtCoder` `*100` | Feb/26/2021 20:49 | 
+67 | [C - City Savers](https://atcoder.jp/contests/abc135/tasks/abc135_c) | [C++ (GCC 9.2.1)](./atcoder/abc135/C.cpp) | `AtCoder` `*300` | Feb/26/2021 20:45 | 
+66 | [B - 0 or 1 Swap](https://atcoder.jp/contests/abc135/tasks/abc135_b) | [C++ (GCC 9.2.1)](./atcoder/abc135/B.cpp) | `AtCoder` `*200` | Feb/26/2021 20:33 | 
+65 | [A - Harmony](https://atcoder.jp/contests/abc135/tasks/abc135_a) | [C++ (GCC 9.2.1)](./atcoder/abc135/A.cpp) | `AtCoder` `*100` | Feb/26/2021 20:16 | 
+64 | [C - One Quadrillion and One Dalmatians](https://atcoder.jp/contests/abc171/tasks/abc171_c) | [C++ (GCC 9.2.1)](./atcoder/abc171/C.cpp) | `AtCoder` `*300` | Feb/26/2021 20:10 | 
+63 | [B - Mix Juice](https://atcoder.jp/contests/abc171/tasks/abc171_b) | [C++ (GCC 9.2.1)](./atcoder/abc171/B.cpp) | `AtCoder` `*200` | Feb/26/2021 20:01 | 
+62 | [A - αlphabet](https://atcoder.jp/contests/abc171/tasks/abc171_a) | [C++ (GCC 9.2.1)](./atcoder/abc171/A.cpp) | `AtCoder` `*100` | Feb/26/2021 19:57 | 
+61 | [B - Judge Status Summary](https://atcoder.jp/contests/abc173/tasks/abc173_b) | [C++ (GCC 9.2.1)](./atcoder/abc173/B.cpp) | `AtCoder` `*200` | Feb/26/2021 19:49 | 
+60 | [A - Payment](https://atcoder.jp/contests/abc173/tasks/abc173_a) | [C++ (GCC 9.2.1)](./atcoder/abc173/A.cpp) | `AtCoder` `*100` | Feb/26/2021 19:35 | 
+59 | [A - Simple Math 2](https://atcoder.jp/contests/arc111/tasks/arc111_a) | [C++ (GCC 9.2.1)](./atcoder/arc111/A.cpp) | `AtCoder` `*300` | Feb/26/2021 17:15 | 
+58 | [B - Painting Balls with AtCoDeer](https://atcoder.jp/contests/abc046/tasks/abc046_b) | [C++ (GCC 9.2.1)](./atcoder/abc046/B.cpp) | `AtCoder` `*200` | Feb/26/2021 17:01 | 
+57 | [A - AtCoDeer and Paint Cans](https://atcoder.jp/contests/abc046/tasks/abc046_a) | [C++ (GCC 9.2.1)](./atcoder/abc046/A.cpp) | `AtCoder` `*100` | Feb/26/2021 16:55 | 
+56 | [A - 12/22](https://atcoder.jp/contests/caddi2018b/tasks/caddi2018b_a) | [C++ (GCC 9.2.1)](./atcoder/caddi2018b/A.cpp) | `AtCoder` `*100` | Feb/26/2021 16:48 | 
+55 | [E - Count Median](https://atcoder.jp/contests/abc169/tasks/abc169_e) | [C++ (GCC 9.2.1)](./atcoder/abc169/E.cpp) | `AtCoder` `*500` | Feb/26/2021 16:44 | 
 54 | [B - Orthogonality](https://atcoder.jp/contests/abc188/tasks/abc188_b) | [C++ (GCC 9.2.1)](./atcoder/abc188/B.cpp) | `AtCoder` `*200` | Feb/24/2021 15:22 | 
 53 | [A - Three-Point Shot](https://atcoder.jp/contests/abc188/tasks/abc188_a) | [C++ (GCC 9.2.1)](./atcoder/abc188/A.cpp) | `AtCoder` `*100` | Feb/24/2021 15:16 | 
 52 | [D - Choosing Up Sides](https://atcoder.jp/contests/keyence2021/tasks/keyence2021_d) | [C++ (GCC 9.2.1)](./atcoder/keyence2021/D.cpp) | `AtCoder` `*700` | Feb/24/2021 15:13 | 
