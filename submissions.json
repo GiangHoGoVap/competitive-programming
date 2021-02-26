@@ -703,6 +703,22 @@
     ],
     "timestamp": "Feb/24/2021 15:22"
   },
+  "AC20499066": {
+    "contest_id": "abc171",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc171/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "\u03b1lphabet",
+    "problem_url": "https://atcoder.jp/contests/abc171/tasks/abc171_a",
+    "submission_id": "AC20499066",
+    "submission_url": "https://atcoder.jp/contests/abc171/submissions/20499066",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/26/2021 19:57"
+  },
   "AC20499155": {
     "contest_id": "abc171",
     "language": "C++ (GCC 9.2.1)",
