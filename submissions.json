@@ -703,6 +703,22 @@
     ],
     "timestamp": "Feb/24/2021 15:22"
   },
+  "AC20499326": {
+    "contest_id": "abc171",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc171/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "One Quadrillion and One Dalmatians",
+    "problem_url": "https://atcoder.jp/contests/abc171/tasks/abc171_c",
+    "submission_id": "AC20499326",
+    "submission_url": "https://atcoder.jp/contests/abc171/submissions/20499326",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/26/2021 20:10"
+  },
   "AC20499445": {
     "contest_id": "abc135",
     "language": "C++ (GCC 9.2.1)",
