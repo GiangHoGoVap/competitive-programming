@@ -703,6 +703,22 @@
     ],
     "timestamp": "Feb/24/2021 15:22"
   },
+  "AC20506678": {
+    "contest_id": "abc174",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc174/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Repsept",
+    "problem_url": "https://atcoder.jp/contests/abc174/tasks/abc174_c",
+    "submission_id": "AC20506678",
+    "submission_url": "https://atcoder.jp/contests/abc174/submissions/20506678",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/27/2021 09:27"
+  },
   "AC20527976": {
     "contest_id": "abc193",
     "language": "C++ (GCC 9.2.1)",
