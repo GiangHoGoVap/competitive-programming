@@ -703,6 +703,22 @@
     ],
     "timestamp": "Feb/24/2021 15:22"
   },
+  "AC20506466": {
+    "contest_id": "abc174",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc174/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Air Conditioner",
+    "problem_url": "https://atcoder.jp/contests/abc174/tasks/abc174_a",
+    "submission_id": "AC20506466",
+    "submission_url": "https://atcoder.jp/contests/abc174/submissions/20506466",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/27/2021 09:09"
+  },
   "AC20506617": {
     "contest_id": "abc174",
     "language": "C++ (GCC 9.2.1)",
