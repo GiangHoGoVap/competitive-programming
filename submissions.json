@@ -703,6 +703,22 @@
     ],
     "timestamp": "Feb/24/2021 15:22"
   },
+  "AC20586106": {
+    "contest_id": "m-solutions2020",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/m-solutions2020/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Kyu in AtCoder",
+    "problem_url": "https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_a",
+    "submission_id": "AC20586106",
+    "submission_url": "https://atcoder.jp/contests/m-solutions2020/submissions/20586106",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/01/2021 08:47"
+  },
   "AC20586424": {
     "contest_id": "m-solutions2020",
     "language": "C++ (GCC 9.2.1)",
