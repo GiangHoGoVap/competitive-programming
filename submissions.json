@@ -703,6 +703,22 @@
     ],
     "timestamp": "Feb/24/2021 15:22"
   },
+  "AC20586424": {
+    "contest_id": "m-solutions2020",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/m-solutions2020/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Magic 2",
+    "problem_url": "https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_b",
+    "submission_id": "AC20586424",
+    "submission_url": "https://atcoder.jp/contests/m-solutions2020/submissions/20586424",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/01/2021 09:15"
+  },
   "AC20587294": {
     "contest_id": "m-solutions2020",
     "language": "C++ (GCC 9.2.1)",
