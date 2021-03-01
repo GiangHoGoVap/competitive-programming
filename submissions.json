@@ -703,6 +703,22 @@
     ],
     "timestamp": "Feb/24/2021 15:22"
   },
+  "AC20587294": {
+    "contest_id": "m-solutions2020",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/m-solutions2020/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Marks",
+    "problem_url": "https://atcoder.jp/contests/m-solutions2020/tasks/m_solutions2020_c",
+    "submission_id": "AC20587294",
+    "submission_url": "https://atcoder.jp/contests/m-solutions2020/submissions/20587294",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/01/2021 10:38"
+  },
   "CF107940044": {
     "contest_id": 4,
     "language": "GNU C++11",
